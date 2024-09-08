@@ -1,0 +1,19 @@
+{
+  "name": "erm",
+  "version": "1.0.0",
+  "description": "ERM (Embedding-Resource Map) is a binary file format that keep track of the embeddings of resources in a dataset. It's designed to be extremely fast to read embeddings and manipulate them in a constrained environment, such as a browser.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "webpack": "^5.94.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
